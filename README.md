@@ -1,2 +1,1 @@
-# fotolara
-foto lara
+fotos
